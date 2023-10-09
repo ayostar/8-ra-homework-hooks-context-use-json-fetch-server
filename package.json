@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "prestart": "npm install",
+    "prestart": "npm i -D express cors body-parser",
     "start": "node server.js"
   },
   "author": "Netology",
