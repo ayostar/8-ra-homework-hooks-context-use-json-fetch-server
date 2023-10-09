@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "prestart": "npm install",
     "start": "node server.js"
   },
   "author": "Netology",
